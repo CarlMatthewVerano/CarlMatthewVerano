@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Carl Matthew T. Verano</h1>
-<h3 align="center">Driven student developer from De La Salle University, Philippines, passionate about innovating and advancing technology.</h3>
+<h3 align="center">A driven student developer from De La Salle University, Philippines, passionate about innovating and advancing technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlmatthewverano&label=Profile%20views&color=0e75b6&style=flat" alt="carlmatthewverano" /> </p>
 
