@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carl-matthew-verano-0a3b85278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carl-matthew-verano-0a3b85278" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carl-matthew-verano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carl-matthew-verano" height="30" width="40" /></a>
 <a href="https://fb.com/matthew.verano.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthew.verano.3" height="30" width="40" /></a>
 </p>
 
