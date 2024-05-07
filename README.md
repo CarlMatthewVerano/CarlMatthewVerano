@@ -10,6 +10,7 @@
 - 💬 Ask me about **Java, Python, Javascript**
 
 - 📫 How to reach me **carlmatthewverano@gmail.com**
+- 📫 Access my portfolio here: **[carlmatthewverano@gmail.com](https://carlmatthewverano.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
