@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlmatthewverano" alt="carlmatthewverano" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, C#, .NET, AWS**
+- 🌱 I’m currently learning **Spring Boot, C++, .NET, AWS**
 
 - 💬 Ask me about **Java, Python, Javascript**
 
